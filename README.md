@@ -37,6 +37,20 @@ The dashboard highlights:
 ---
 
 ## 📈 Dashboard Features  
+### 1️⃣ Overview
+
+*(Insert image in your repository and update the path below)*
+
+![Overview](Images/Overview.png)
+
+---
+
+### 2️⃣ Sumaary
+
+*(Insert image in your repository and update the path below)*
+
+![Sumaary](Images/Sumaary.png)
+
 
 ### 🔹 Summary Page
 - KPI Cards (Applications, Funded Amount, Received Amount, Interest Rate, DTI)
